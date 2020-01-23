@@ -8,6 +8,8 @@ namespace My_First_Git_Learning_Project
         {
             //Create a user prompt to pause application
             Console.WriteLine("Press any key to continue...");
+
+            // Display the "Hello World!" message
             Console.WriteLine("Hello World!");
             Console.ReadKey(true);
         }
